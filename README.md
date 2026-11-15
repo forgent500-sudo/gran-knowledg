@@ -27,14 +27,14 @@ Este repositorio almacena los estándares de oro de ingeniería, patrones de dis
 
 ---
 
-## 🔗 Cómo vincular este repositorio a tu cuenta de GitHub
+## 🔗 Repositorio Oficial en GitHub
 
-Para respaldar tu aprendizaje en la nube y compartir tus patrones maestros:
+Repositorio respaldado en la nube:
+👉 **[https://github.com/forgent500-sudo/gran-knowledg](https://github.com/forgent500-sudo/gran-knowledg)**
 
+Para sincronizar o subir nuevos cambios:
 ```bash
-cd /home/forge/lab_gran/patrones  # o en Windows: cd C:\Users\forge\OneDrive\Escritorio\Proyecto_WSL_Linux_IA\patrones
-git remote add origin https://github.com/TU_USUARIO/gran-knowledge.git
-git branch -M main
+cd D:\WSL\Proyecto_WSL_Linux_IA\patrones  # o en WSL: cd /home/forge/lab_gran/patrones
 git push -u origin main
 ```
 
