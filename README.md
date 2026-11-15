@@ -24,6 +24,9 @@ Este repositorio almacena los estándares de oro de ingeniería, patrones de dis
 | `patron_monitor_recursos.py` | Python | Monitor de rendimiento del sistema y memoria en tiempo real. | `psutil`, `rich`, `time` |
 | `patron_modulo_logica.py` | Python | Lógica de negocio desacoplada con suite de pruebas unitarias. | `unittest`, `dataclasses`, `typing` |
 | `patron_script_seguro.sh` | Bash | Automatización de tareas de sistema operativo protegidas contra errores. | `set -euo pipefail`, `trap`, `getopts` |
+| `patron_datapack_builder.py` | Python | Forjador de Datapacks de Minecraft con mapeo de pack_format. | `json`, `rich`, `typing`, `argparse` |
+| `patron_analizador_mod_jar.py` | Python | Inspector de mods (.jar) para Fabric, Quilt, NeoForge y Forge. | `zipfile`, `json`, `rich`, `typing` |
+| `patron_optimizador_linux.py` | Python | Auditor de servicios de inicio, ZRAM, earlyoom y preload. | `subprocess`, `rich`, `argparse` |
 
 ---
 
